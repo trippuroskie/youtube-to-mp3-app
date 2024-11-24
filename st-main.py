@@ -4,7 +4,7 @@ import yt_dlp
 st.title("Youtube to MP3 Converter")
 
 # Streamlit UI
-link = st.text_input("Input your link here", "www.youtube.com/placeholder")
+link = st.text_input("Input your link here:")
 
 if st.button("Download Audio"):
     # Placeholder for the "Downloading..." message
