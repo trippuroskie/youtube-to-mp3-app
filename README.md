@@ -3,6 +3,7 @@ By: Tripp Uroskie 11/23/24
 
 > **About**: A simple web app used to convert YouTube videos from URL to Mp3. Can also run in command line via local-main.py.
 
+To use fully in browser: https://youtube-to-mp3-app.streamlit.app/
 
 ### How to use in Browser (on MacOS)
 1. Navigate to project folder in terminal
