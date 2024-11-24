@@ -1,3 +1,2 @@
 yt_dlp
 streamlit
-ffmpeg
